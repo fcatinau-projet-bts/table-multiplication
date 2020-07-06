@@ -23,11 +23,11 @@ export default {
 }
 </script>
 
-<style scoped>
+<!--<style scoped>
 
 .tdm td {
   background-color: lightgray; 
   border-bottom:1pt solid black;
 }
 
-</style>
+</style>-->

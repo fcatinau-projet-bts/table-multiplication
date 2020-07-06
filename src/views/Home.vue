@@ -26,7 +26,7 @@
   };
 </script>
 
-<style>
+<!--<style>
   #app {
     font-family: "Avenir", Helvetica, Arial, sans-serif;
     -webkit-font-smoothing: antialiased;
@@ -36,4 +36,4 @@
     margin-top: 60px;
   }
 
-</style>
+</style>-->

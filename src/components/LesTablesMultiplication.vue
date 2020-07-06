@@ -26,9 +26,9 @@
     },
   }
 </script>
-<style scoped>
+<!--<style scoped>
   .table{
     display: inline-block;
     margin-left: 20px;
   }
-</style>
+</style>-->
